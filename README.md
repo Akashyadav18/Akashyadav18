@@ -1,5 +1,4 @@
-[![MasterHead]([https://camo.githubusercontent.com/8e7a53e7beedfb5ade1aa80d100ea79584dae24b97ca8a88581c230b7c63f718/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f35346236633036383039373539392e356235306263613437366239622e676966](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif))](https://akashdevportfolio.vercel.app/)
-
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)(https://akashdevportfolio.vercel.app/)
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate Frontend, Backend, Web & MERN Stack developer</h3>
 
