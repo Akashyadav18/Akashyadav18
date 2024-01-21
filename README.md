@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)(https://akashdevportfolio.vercel.app/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://akashdevportfolio.vercel.app/)
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate Frontend, Backend, Web & MERN Stack developer</h3>
 
